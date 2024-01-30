@@ -5,5 +5,5 @@ draft = false
 +++
 
 # Opleiding
-He
+    Comenuis College ( )
 ![Example image](/forest.JPG) 
