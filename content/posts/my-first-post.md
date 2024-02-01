@@ -6,4 +6,5 @@ draft = false
 
 # Opleiding
     Comenuis College (2014-2018)
+    
 ![Example image](/forest.JPG) 
