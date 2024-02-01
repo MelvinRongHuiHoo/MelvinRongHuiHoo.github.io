@@ -5,5 +5,5 @@ draft = false
 +++
 
 # Opleiding
-    Comenuis College ( )
+    Comenuis College (2014-2018)
 ![Example image](/forest.JPG) 
