@@ -5,9 +5,9 @@ draft = false
 +++
 
 # Opleidingen
-    Comenuis College (2014-2018)
+    Comenuis College (2015-2019)
     Da vinci College (2019-2023)
-    Hogeschool Rotterdam (huidige)
+    Hogeschool Rotterdam (2023-huidig)
 
 
 ![Example image](/forest.JPG) 
