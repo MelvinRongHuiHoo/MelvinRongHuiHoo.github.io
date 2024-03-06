@@ -10,11 +10,6 @@ Da vinci College (2019-2023)
 Hogeschool Rotterdam (2023-huidig)
 
 # Stage
-Maartenvisser elektrotechniek
-GBS (GearBox Service)
-Shunter
-Goflex
-
 # Maartenvisser elektrotechniek
 
 # GBS
