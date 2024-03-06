@@ -5,9 +5,14 @@ draft = false
 +++
 
 # Opleidingen
-    Comenuis College (2015-2019)
-    Da vinci College (2019-2023)
-    Hogeschool Rotterdam (2023-huidig)
+Comenuis College (2015-2019)
+Da vinci College (2019-2023)
+Hogeschool Rotterdam (2023-huidig)
 
+# Stage
+Maartenvisser elektrotechniek
+GBS (GearBox Service)
+Shunter
+Goflex
 
 ![Example image](/forest.JPG) 
