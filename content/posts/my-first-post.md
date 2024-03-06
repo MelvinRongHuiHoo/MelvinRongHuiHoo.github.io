@@ -11,7 +11,7 @@ Hogeschool Rotterdam (2023-huidig)
 
 # Stage
 # Maartenvisser elektrotechniek
-
+Maartenvisser elektrotechniek is een bedrijf dat binnen-instalatietechniek uitvoeren
 # GBS
 
 # Shunter
